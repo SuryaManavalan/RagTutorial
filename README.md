@@ -1,4 +1,4 @@
-# Node.js Tutorial
+# PineCone with LangChain and OpenAI in Node Tutorial
 
 This is a tutorial project for learning Node.js.
 
